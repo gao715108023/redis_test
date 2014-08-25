@@ -1,6 +1,4 @@
 package com.redis;
-
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 import redis.clients.jedis.*;
 
 import java.util.ArrayList;
